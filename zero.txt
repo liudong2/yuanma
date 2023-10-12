@@ -1,1 +1,2 @@
 Git no easy.
+git is bag.
